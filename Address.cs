@@ -3,12 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
- * Michael Arrey
- * C#
- * Lab2. 25 August 2020.
- * I wrote this code myself.
- */
+
 namespace schoolProject
 {
     class Address
