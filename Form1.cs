@@ -7,12 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-/*
- * Michael Arrey
- * C#
- * Lab2. 25 August 2020.
- * I wrote this code myself.
- */
+
 namespace schoolProject
 {
     public partial class Form1 : Form
